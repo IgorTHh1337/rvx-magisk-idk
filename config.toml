@@ -17,7 +17,7 @@ rv-brand = "anddea ReVanced"
 build-mode = "both"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
-patcher-args = "-OpackageNameYouTube=app.revanced.android.youtube -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
+patcher-args = "-OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeMusicRVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -26,7 +26,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
 build-mode = "both"
-patcher-args = "-OpackageNameYouTube=app.revanced.android.youtube -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
+patcher-args = "-OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
