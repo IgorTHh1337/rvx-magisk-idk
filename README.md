@@ -41,6 +41,6 @@ bash <(curl -sSf https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-idk/ma
 ### On Desktop
 ```console
 $ git clone https://github.com/IgorTHh1337/rvx-magisk-idk
-$ cd revanced-magisk-module
+$ httpvx-magisk-idk
 $ ./build.sh
 ```
