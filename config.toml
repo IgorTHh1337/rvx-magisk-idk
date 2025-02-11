@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Anddea YouTube RVX]
+[AnddeaYouTubeRVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
@@ -16,7 +16,7 @@ included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-OpackageNameYouTube=app.revanced.android.youtube -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
-[Anddea YouTube Music RVX]
+[AnddeaYouTubeMusicRVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
