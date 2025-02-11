@@ -14,10 +14,19 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
-build-mode = "both"
+build-mode = "apk"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-OpackageNameYouTube=app.revanced.android.youtube "
+
+[AnddeaYouTubeRVX]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea ReVanced"
+build-mode = "module"
+included-patches = "'MaterialYou'"
+excluded-patches = "'Theme'"
 
 [AnddeaYouTubeMusicRVX]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -25,13 +34,13 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
-build-mode = "both"
+build-mode = "apk"
 patcher-args = "-OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+[AnddeaYouTubeMusicRVX]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
-build-mode = "both"
-
+arch = "both"
+build-mode = "module"
