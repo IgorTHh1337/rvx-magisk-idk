@@ -1,7 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-patches-version = "v3.4.0-dev.7"
+patches-version = "v3.4.0-dev.8"
 cli-source = "inotia00/revanced-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -15,9 +15,9 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 build-mode = "apk"
-included-patches = "'MaterialYou', 'GmsCore support'"
+included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
-patcher-args = "-OpackageNameYouTube='app.revanced.android.youtube' "
+patcher-args = "-OpackageNameYouTube='app.revanced.android.youtube' -OpackageNameYouTubeMusic='app.revanced.android.apps.youtube.music' "
 
 [AnddeaYouTubeRVXModule]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -35,7 +35,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
 build-mode = "apk"
-patcher-args = "-OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
+patcher-args = "-OpackageNameYouTube='app.revanced.android.youtube' -OpackageNameYouTubeMusic='app.revanced.android.apps.youtube.music' "
 
 [AnddeaYouTubeMusicRVXModule]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
