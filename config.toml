@@ -35,7 +35,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
 build-mode = "apk"
-patcher-args = "-e "GmsCore support" -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
+patcher-args = "-e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
