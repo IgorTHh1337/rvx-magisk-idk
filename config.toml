@@ -57,7 +57,7 @@ rv-brand = "anddea ReVanced"
 build-mode = "apk"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
-patcher-args = "-e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube -e 'Custom branding icon for YouTube' -OappIcon=afn_blue "
+patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=afn_blue -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_AFNB]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -76,7 +76,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
 build-mode = "apk"
-patcher-args = "-e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music -e 'Custom branding icon for YouTube Music' -OappIcon=afn_blue "
+patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=afn_blue -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_AFNB]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
