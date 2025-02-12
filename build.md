@@ -1,9 +1,15 @@
 AnddeaYouTubeMusicRVXAPK (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK (arm-v7a): 7.16.53  
+AnddeaYouTubeMusicRVXAPK_AFNB (arm64-v8a): 7.16.53  
+AnddeaYouTubeMusicRVXAPK_AFNB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule (arm-v7a): 7.16.53  
+AnddeaYouTubeMusicRVXModule_AFNB (arm64-v8a): 7.16.53  
+AnddeaYouTubeMusicRVXModule_AFNB (arm-v7a): 7.16.53  
 AnddeaYouTubeRVXAPK: 19.44.39  
+AnddeaYouTubeRVXAPK_AFNB: 19.44.39  
 AnddeaYouTubeRVXModule: 19.44.39  
+AnddeaYouTubeRVXModule_AFNB: 19.44.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
