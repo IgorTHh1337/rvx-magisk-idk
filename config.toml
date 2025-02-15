@@ -509,24 +509,6 @@ included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=squid_game "
 
-[AnddeaYouTubeMusicRVXAPK_SQDG]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "apk"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=squid_game -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
-
-[AnddeaYouTubeMusicRVXModule_SQDG]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "module"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=squid_game "
-
 # Vanced Black Icon
 
 [AnddeaYouTubeRVXAPK_VNCDB]
@@ -629,24 +611,6 @@ included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=xisr_special "
 
-[AnddeaYouTubeMusicRVXAPK_XISRS]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "apk"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=xisr_special -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
-
-[AnddeaYouTubeMusicRVXModule_XISRS]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "module"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=xisr_special "
-
 # Xisr Yellow Icon
 
 [AnddeaYouTubeRVXAPK_XISRY]
@@ -708,24 +672,6 @@ build-mode = "module"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=youtube_black "
-
-[AnddeaYouTubeMusicRVXAPK_BLACK]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "apk"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=youtube_black -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
-
-[AnddeaYouTubeMusicRVXModule_BLACK]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea ReVanced"
-arch = "both"
-build-mode = "module"
-patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=youtube_black "
 
 
 
