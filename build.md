@@ -4,8 +4,6 @@ AnddeaYouTubeMusicRVXAPK_AFNB (arm64-v8a): 7.16.53
 AnddeaYouTubeMusicRVXAPK_AFNB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_AFNR (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_AFNR (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_BLACK (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_BLACK (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_MMT (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_MMT (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_MMTB (arm64-v8a): 7.16.53  
@@ -24,14 +22,10 @@ AnddeaYouTubeMusicRVXAPK_REVB (arm64-v8a): 7.16.53
 AnddeaYouTubeMusicRVXAPK_REVB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_REVR (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_REVR (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_SQDG (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_SQDG (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_VNCDB (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_VNCDB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_VNCDL (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_VNCDL (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_XISRS (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXAPK_XISRS (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_XISRY (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXAPK_XISRY (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule (arm64-v8a): 7.16.53  
@@ -40,8 +34,6 @@ AnddeaYouTubeMusicRVXModule_AFNB (arm64-v8a): 7.16.53
 AnddeaYouTubeMusicRVXModule_AFNB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_AFNR (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_AFNR (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_BLACK (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_BLACK (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_MMT (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_MMT (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_MMTB (arm64-v8a): 7.16.53  
@@ -60,14 +52,10 @@ AnddeaYouTubeMusicRVXModule_REVB (arm64-v8a): 7.16.53
 AnddeaYouTubeMusicRVXModule_REVB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_REVR (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_REVR (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_SQDG (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_SQDG (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_VNCDB (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_VNCDB (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_VNCDL (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_VNCDL (arm-v7a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_XISRS (arm64-v8a): 7.16.53  
-AnddeaYouTubeMusicRVXModule_XISRS (arm-v7a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_XISRY (arm64-v8a): 7.16.53  
 AnddeaYouTubeMusicRVXModule_XISRY (arm-v7a): 7.16.53  
 AnddeaYouTubeRVXAPK: 19.44.39  
@@ -113,5 +101,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: anddea/patches-3.4.0-dev.8.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.4.0-dev.8)  
+Patches: anddea/patches-3.4.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.4.0)  
