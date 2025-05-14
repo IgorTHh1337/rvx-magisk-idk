@@ -1,6 +1,6 @@
 {
-  "version": "v8.12.53 (patches: 3.7.0)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/15/anddeayoutubemusicrvxmodule_vncdb-anddea-revanced-magisk-v8.12.53-arm-v7a.zip",
+  "version": "v8.12.53 (patches: dev.1)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/16/anddeayoutubemusicrvxmodule_vncdb-anddea-revanced-magisk-v8.12.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-idk/update/build.md"
 }
