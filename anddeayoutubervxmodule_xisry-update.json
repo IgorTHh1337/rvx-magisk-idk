@@ -1,6 +1,6 @@
 {
-  "version": "v20.10.40 (patches: dev.3)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/20/anddeayoutubervxmodule_xisry-anddea-revanced-magisk-v20.10.40-all.zip",
+  "version": "v20.10.40 (patches: 3.13.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/21/anddeayoutubervxmodule_xisry-anddea-revanced-magisk-v20.10.40-all.zip",
   "changelog": "https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-idk/update/build.md"
 }
