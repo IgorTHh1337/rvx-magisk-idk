@@ -58,42 +58,6 @@ AnddeaYouTubeMusicRVXModule_VNCDL (arm64-v8a): 8.30.54
 AnddeaYouTubeMusicRVXModule_VNCDL (arm-v7a): 8.30.54  
 AnddeaYouTubeMusicRVXModule_XISRY (arm64-v8a): 8.30.54  
 AnddeaYouTubeMusicRVXModule_XISRY (arm-v7a): 8.30.54  
-AnddeaYouTubeRVXAPK: 20.21.37  
-AnddeaYouTubeRVXAPK_AFNB: 20.21.37  
-AnddeaYouTubeRVXAPK_AFNR: 20.21.37  
-AnddeaYouTubeRVXAPK_BLACK: 20.21.37  
-AnddeaYouTubeRVXAPK_MMT: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTB: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTG: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTO: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTP: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTT: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTY: 20.21.37  
-AnddeaYouTubeRVXAPK_REVB: 20.21.37  
-AnddeaYouTubeRVXAPK_REVR: 20.21.37  
-AnddeaYouTubeRVXAPK_SQDG: 20.21.37  
-AnddeaYouTubeRVXAPK_VNCDB: 20.21.37  
-AnddeaYouTubeRVXAPK_VNCDL: 20.21.37  
-AnddeaYouTubeRVXAPK_XISRS: 20.21.37  
-AnddeaYouTubeRVXAPK_XISRY: 20.21.37  
-AnddeaYouTubeRVXModule: 20.21.37  
-AnddeaYouTubeRVXModule_AFNB: 20.21.37  
-AnddeaYouTubeRVXModule_AFNR: 20.21.37  
-AnddeaYouTubeRVXModule_BLACK: 20.21.37  
-AnddeaYouTubeRVXModule_MMT: 20.21.37  
-AnddeaYouTubeRVXModule_MMTB: 20.21.37  
-AnddeaYouTubeRVXModule_MMTG: 20.21.37  
-AnddeaYouTubeRVXModule_MMTO: 20.21.37  
-AnddeaYouTubeRVXModule_MMTP: 20.21.37  
-AnddeaYouTubeRVXModule_MMTT: 20.21.37  
-AnddeaYouTubeRVXModule_MMTY: 20.21.37  
-AnddeaYouTubeRVXModule_REVB: 20.21.37  
-AnddeaYouTubeRVXModule_REVR: 20.21.37  
-AnddeaYouTubeRVXModule_SQDG: 20.21.37  
-AnddeaYouTubeRVXModule_VNCDB: 20.21.37  
-AnddeaYouTubeRVXModule_VNCDL: 20.21.37  
-AnddeaYouTubeRVXModule_XISRS: 20.21.37  
-AnddeaYouTubeRVXModule_XISRY: 20.21.37  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -101,5 +65,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: anddea/patches-3.15.0-dev.3.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.3)  
+Patches: anddea/patches-3.15.0-dev.7.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.7)  
