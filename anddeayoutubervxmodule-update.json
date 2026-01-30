@@ -1,6 +1,6 @@
 {
-  "version": "v20.21.37 (patches: 3.15.0)",
-  "versionCode": 33,
-  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/33/anddeayoutubervxmodule-anddea-revanced-magisk-v20.21.37-all.zip",
+  "version": "v20.21.37 (patches: dev.1)",
+  "versionCode": 34,
+  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-idk/releases/download/34/anddeayoutubervxmodule-anddea-revanced-magisk-v20.21.37-all.zip",
   "changelog": "https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-idk/update/build.md"
 }
