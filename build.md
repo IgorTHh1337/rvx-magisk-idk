@@ -26,22 +26,22 @@ AnddeaYouTubeMusicRVXModule_VNCDB (arm64-v8a): 8.30.54
 AnddeaYouTubeMusicRVXModule_VNCDB (arm-v7a): 8.30.54  
 AnddeaYouTubeMusicRVXModule_VNCDL (arm64-v8a): 8.30.54  
 AnddeaYouTubeMusicRVXModule_VNCDL (arm-v7a): 8.30.54  
-AnddeaYouTubeRVXAPK: 20.21.37  
-AnddeaYouTubeRVXAPK_BLACK: 20.21.37  
-AnddeaYouTubeRVXAPK_MMT: 20.21.37  
-AnddeaYouTubeRVXAPK_MMTB: 20.21.37  
-AnddeaYouTubeRVXAPK_REVB: 20.21.37  
-AnddeaYouTubeRVXAPK_REVR: 20.21.37  
-AnddeaYouTubeRVXAPK_VNCDB: 20.21.37  
-AnddeaYouTubeRVXAPK_VNCDL: 20.21.37  
-AnddeaYouTubeRVXModule: 20.21.37  
-AnddeaYouTubeRVXModule_BLACK: 20.21.37  
-AnddeaYouTubeRVXModule_MMT: 20.21.37  
-AnddeaYouTubeRVXModule_MMTB: 20.21.37  
-AnddeaYouTubeRVXModule_REVB: 20.21.37  
-AnddeaYouTubeRVXModule_REVR: 20.21.37  
-AnddeaYouTubeRVXModule_VNCDB: 20.21.37  
-AnddeaYouTubeRVXModule_VNCDL: 20.21.37  
+AnddeaYouTubeRVXAPK: 20.25.37  
+AnddeaYouTubeRVXAPK_BLACK: 20.25.37  
+AnddeaYouTubeRVXAPK_MMT: 20.25.37  
+AnddeaYouTubeRVXAPK_MMTB: 20.25.37  
+AnddeaYouTubeRVXAPK_REVB: 20.25.37  
+AnddeaYouTubeRVXAPK_REVR: 20.25.37  
+AnddeaYouTubeRVXAPK_VNCDB: 20.25.37  
+AnddeaYouTubeRVXAPK_VNCDL: 20.25.37  
+AnddeaYouTubeRVXModule: 20.25.37  
+AnddeaYouTubeRVXModule_BLACK: 20.25.37  
+AnddeaYouTubeRVXModule_MMT: 20.25.37  
+AnddeaYouTubeRVXModule_MMTB: 20.25.37  
+AnddeaYouTubeRVXModule_REVB: 20.25.37  
+AnddeaYouTubeRVXModule_REVR: 20.25.37  
+AnddeaYouTubeRVXModule_VNCDB: 20.25.37  
+AnddeaYouTubeRVXModule_VNCDL: 20.25.37  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -49,5 +49,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: inotia00/revanced-cli-5.0.2-all.jar  
-Patches: anddea/patches-3.16.0-dev.1.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.16.0-dev.1)  
+Patches: anddea/patches-3.16.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.16.0)  
