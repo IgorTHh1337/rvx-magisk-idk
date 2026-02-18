@@ -1,10 +1,6 @@
-# ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+# ReVanced Magisk
 
-Extensive ReVanced builder  
-
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Extensive ReVanced builder
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
@@ -36,22 +32,15 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 
 also see here [`CONFIG.md`](./CONFIG.md)
 
-## If you are having trouble with the classic mount method of the modules
-such as,
-- **"Reflash needed"** error after reboots
-- **"Suspicious mount detected"** warnings from root detector apps
-
-You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
-
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-idk/main/build-termux.sh)
 ```
 
 ### On Desktop
 ```console
-$ git clone https://github.com/j-hc/revanced-magisk-module
-$ cd revanced-magisk-module
+$ git clone https://github.com/IgorTHh1337/rvx-magisk-idk
+$ httpvx-magisk-idk
 $ ./build.sh
 ```
