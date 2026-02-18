@@ -12,9 +12,7 @@ cli-source = "MorpheApp/morphe-cli"
 #Stock Icon
 
 [AnddeaYouTubeRVXAPK]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 rv-brand = "anddea Morphe"
 build-mode = "apk"
@@ -24,9 +22,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -37,9 +33,7 @@ excluded-patches = "'Theme'"
 
 [AnddeaYouTubeMusicRVXAPK]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -50,9 +44,7 @@ patcher-args = "-e 'Custom header for YouTube Music' -e 'GmsCore support' -Opack
 
 [AnddeaYouTubeMusicRVXModule]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -64,9 +56,7 @@ patcher-args = "-e 'Custom header for YouTube Music' "
 # MMT Icon
 
 [AnddeaYouTubeRVXAPK_MMT]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -77,9 +67,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_MMT]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -91,9 +79,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt -e 'Custom h
 
 [AnddeaYouTubeMusicRVXAPK_MMT]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -104,9 +90,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt -e 'Cu
 
 [AnddeaYouTubeMusicRVXModule_MMT]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -118,9 +102,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt -e 'Cu
 # MMT Blue Icon
 
 [AnddeaYouTubeRVXAPK_MMTB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -131,9 +113,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt_blue -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_MMTB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -145,9 +125,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt_blue -e 'Cus
 
 [AnddeaYouTubeMusicRVXAPK_MMTB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -158,9 +136,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt_blue -
 
 [AnddeaYouTubeMusicRVXModule_MMTB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -172,9 +148,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt_blue -
 # Revancify Blue Icon
 
 [AnddeaYouTubeRVXAPK_REVB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -185,9 +159,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_blue -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_REVB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -199,9 +171,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_blue -
 
 [AnddeaYouTubeMusicRVXAPK_REVB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -212,9 +182,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_
 
 [AnddeaYouTubeMusicRVXModule_REVB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -226,9 +194,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_
 # Revancify Red Icon
 
 [AnddeaYouTubeRVXAPK_REVR]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -239,9 +205,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_red -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_REVR]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -253,9 +217,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_red -e
 
 [AnddeaYouTubeMusicRVXAPK_REVR]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -266,9 +228,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_
 
 [AnddeaYouTubeMusicRVXModule_REVR]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -280,9 +240,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_
 # Vanced Black Icon
 
 [AnddeaYouTubeRVXAPK_VNCDB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -293,9 +251,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=vanced_black -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_VNCDB]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -307,9 +263,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=vanced_black -e 
 
 [AnddeaYouTubeMusicRVXAPK_VNCDB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -320,9 +274,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_bla
 
 [AnddeaYouTubeMusicRVXModule_VNCDB]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -334,9 +286,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_bla
 # Vanced Light Icon
 
 [AnddeaYouTubeRVXAPK_VNCDL]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -347,9 +297,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=vanced_light -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_VNCDL]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -361,9 +309,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=vanced_light -e 
 
 [AnddeaYouTubeMusicRVXAPK_VNCDL]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -374,9 +320,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_lig
 
 [AnddeaYouTubeMusicRVXModule_VNCDL]
 
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/thh-apks/ytm"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -388,9 +332,7 @@ patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_lig
 # YouTube Black Icon
 
 [AnddeaYouTubeRVXAPK_BLACK]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
@@ -401,9 +343,7 @@ excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=youtube_black -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule_BLACK]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
