@@ -1,4 +1,4 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+enable-module-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
 patches-version = "v4.0.0-dev.5"
@@ -352,5 +352,6 @@ version = "20.21.37"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=youtube_black -e 'Custom header for YouTube' "
+
 
 
