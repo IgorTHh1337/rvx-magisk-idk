@@ -43,11 +43,11 @@ AnddeaYouTubeRVXModule_REVR: 20.21.37
 AnddeaYouTubeRVXModule_VNCDB: 20.21.37  
 AnddeaYouTubeRVXModule_VNCDL: 20.21.37  
 
-Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases) or [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube and YT Music APKs  
+Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.3.0-all.jar  
+CLI: MorpheApp/morphe-cli-1.4.0-all.jar  
 Patches: anddea/patches-4.0.0-dev.5.mpp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0-dev.5)  
